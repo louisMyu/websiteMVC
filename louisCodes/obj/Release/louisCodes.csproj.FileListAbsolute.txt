@@ -28,3 +28,4 @@ c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\bin\N
 c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\obj\Release\louisCodes.csprojResolveAssemblyReference.cache
 c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\obj\Release\louisCodes.dll
 c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\obj\Release\louisCodes.pdb
+C:\Users\Louis\Documents\Visual Studio 2013\Projects\louisCodes\louisCodes\bin\WebActivatorEx.dll

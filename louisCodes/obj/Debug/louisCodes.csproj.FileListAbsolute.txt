@@ -27,3 +27,5 @@ c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\bin\A
 c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\bin\Newtonsoft.Json.xml
 c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\obj\Debug\louisCodes.dll
 c:\users\louis\documents\visual studio 2013\Projects\louisCodes\louisCodes\obj\Debug\louisCodes.pdb
+c:\Users\Louis\Documents\Visual Studio 2013\Projects\louisCodes\louisCodes\bin\WebActivatorEx.dll
+C:\Users\Louis\Documents\Visual Studio 2013\Projects\louisCodes\louisCodes\obj\Debug\louisCodes.csprojResolveAssemblyReference.cache
