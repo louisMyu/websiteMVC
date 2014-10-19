@@ -96,7 +96,9 @@ appInsights.start();
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <div class="col-xs-8 col-xs-offset-2">
+                <p>&copy; @DateTime.Now.Year - Louis Yu (built with ASP.NET)</p>
+            </div>
         </footer>
     </div>
     @Scripts.Render("~/bundles/jquery")
