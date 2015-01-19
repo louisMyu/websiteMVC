@@ -145,6 +145,7 @@
     <None Include="Properties\PublishProfiles\louiscodes.pubxml" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Images\favicon.ico" />
+    <Content Include="Images\TimeToLiveSample_small.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-2.1.1.js" />
