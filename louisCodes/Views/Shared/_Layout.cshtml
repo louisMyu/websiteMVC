@@ -19,16 +19,15 @@
     <script>
 
         $(document).ready(function () {
-            $('#nav .navbar-nav li>a').on('click', function (event) {
+            $('.nav.navbar-nav li>a').on('click', function (event) {
                 event.preventDefault();
                 var sectionID = $(this).attr("href");
                 scrollToID(sectionID, 750);
             });
 
             function scrollToID(id, speed) {
-                var offSet = 70;
                 var targetOffset = $(id).offset().top;
-                $('html,body').animate({ scrollTop: targetOffset }, speed);
+                $('html,body').animate({ scrollTop: targetOffset - 50}, speed);
             }
         });
     </script>
