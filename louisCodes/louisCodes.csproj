@@ -20,6 +20,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -142,6 +144,12 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap.css.map" />
+    <None Include="Properties\PublishProfiles\louiscodes - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\louiscodes - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\louiscodes - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\louiscodes - ReadOnly - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\louiscodes - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\louiscodes - Web Deploy1.pubxml" />
     <None Include="Properties\PublishProfiles\louiscodes.pubxml" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Images\favicon.ico" />
